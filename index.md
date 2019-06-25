@@ -1,6 +1,6 @@
 # Valerie's Practice GitHub site
 
-This is where I will practice using Markdown.  For instance, I'm going to write my name in **bold**  ~~**Valerie**~~, nah, let's do, italics: *Valerie*.
+This is where I will practice using Markdown.  For instance, I'm going to write my name in **bold**  ~~**Valerie**~~, nah, let's do italics: *Valerie*.
 
 ## ASSIGNMENT
 
