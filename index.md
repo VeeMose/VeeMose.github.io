@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Valerie's Practice GitHub site
 
-You can use the [editor on GitHub](https://github.com/VeeMose/VeeMose.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is where I will practice using Markdown.  For instance, I'm going to write my name in **bold** oops! ~~**Valerie**~~, no, I mean, *italics: Valerie*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ASSIGNMENT
 
-### Markdown
+The assignment in Canvas and what Brian said in class differ somewhat.  Are we supposed to write an 
+- About Me page? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ *OR*
+- Talk about the Growth Mindset?
 
-```markdown
-Syntax highlighted code block
+## Let's make a chart!
+Living in Capitol Hill
 
-# Header 1
-## Header 2
-### Header 3
+Pro | Con
+-------|--------
+Close to everything | Crap parking
+Love my old house   | I'll be the last to live there
+Cal Anderson & Volunteer Parks | Shootings
+Light Rail station | Noisy buses
 
-- Bulleted
-- List
+## More stuff
+Turns out you can use Emojis!
 
-1. Numbered
-2. List
+Ahhhh...... :relaxed:
 
-**Bold** and _Italic_ and `Code` text
+Oh wait, I better be wary, there might be :alien: lurking :exclamation::exclamation:
 
-[Link](url) and ![Image](src)
-```
+## Last thing, cuz it's late and I'm tired
+Here is a [link](https://www.moseleytax.com/) to my old website 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VeeMose/VeeMose.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
