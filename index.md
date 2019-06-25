@@ -4,6 +4,8 @@ This is where I will practice using Markdown.  For instance, I'm going to write 
 
 ## ASSIGNMENT
 
+*We, apparently, are supposed to overwrite this with a journal but everything is too precious to me to overwrite so I'm adding the journal below.  (I want to link to the journal but can't figure out how to do internal links)*
+
 The assignment in Canvas and what Brian said in class differ somewhat.  Are we supposed to write an 
 - About Me page? 
 
@@ -32,7 +34,12 @@ Oh wait, I better be wary, there might be :alien: lurking :exclamation::exclamat
 Here is a [link](https://www.moseleytax.com/) to my old website 
 
 
+##JOURNAL
 
+Here's is a checklist for my journal:
+- [ ] I need to learn how to make internal markdown links
+- [ ] I need to ACP this thang
+- [ ] I need to breathe
 
 
 
